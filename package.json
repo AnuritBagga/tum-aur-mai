@@ -2,10 +2,10 @@
   "name": "tum-aur-mai-server",
   "version": "1.0.0",
   "description": "WebRTC Video Conferencing Server",
-  "main": "src/server.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && node src/index.js",
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && nodemon src/index.js"
+    "start": "NODE_OPTIONS=--openssl-legacy-provider node src/index.js",
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider nodemon src/index.js"
   },
   "keywords": ["webrtc", "video-chat", "socket.io"],
   "author": "Your Name",
