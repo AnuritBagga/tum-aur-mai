@@ -4,10 +4,9 @@
   "description": "WebRTC Video Conferencing Server",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && node src/index.js",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && nodemon src/index.js"
   },
-
   "keywords": ["webrtc", "video-chat", "socket.io"],
   "author": "Your Name",
   "license": "MIT",
