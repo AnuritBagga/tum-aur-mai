@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tum-aur-mai/static/css/main.6ae463e8.css",
-    "main.js": "/tum-aur-mai/static/js/main.42a6d737.js",
+    "main.js": "/tum-aur-mai/static/js/main.311b9652.js",
     "index.html": "/tum-aur-mai/index.html",
     "main.6ae463e8.css.map": "/tum-aur-mai/static/css/main.6ae463e8.css.map",
-    "main.42a6d737.js.map": "/tum-aur-mai/static/js/main.42a6d737.js.map"
+    "main.311b9652.js.map": "/tum-aur-mai/static/js/main.311b9652.js.map"
   },
   "entrypoints": [
     "static/css/main.6ae463e8.css",
-    "static/js/main.42a6d737.js"
+    "static/js/main.311b9652.js"
   ]
 }
