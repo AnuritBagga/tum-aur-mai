@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tum-aur-mai/static/css/main.6ae463e8.css",
+    "main.js": "/tum-aur-mai/static/js/main.390fa0ce.js",
+    "index.html": "/tum-aur-mai/index.html",
+    "main.6ae463e8.css.map": "/tum-aur-mai/static/css/main.6ae463e8.css.map",
+    "main.390fa0ce.js.map": "/tum-aur-mai/static/js/main.390fa0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae463e8.css",
+    "static/js/main.390fa0ce.js"
+  ]
+}
